@@ -1,5 +1,5 @@
 ## FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning
-This repository contains the code for the paper "FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning".
+This repository contains the code for the paper "FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning" accpeted at Transactions on Machine Learning Research (TMLR) 2025..
 
 # Dependencies
 - Tensorflow = 2.10.0
